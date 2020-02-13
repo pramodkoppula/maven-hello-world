@@ -25,5 +25,10 @@ public class App
          * http://checkerframework.org
          */
         System.out.println("... output from testbranch");
+System.out.println("... output from testbranch");
+System.out.println("... output from testbranch");
+System.out.println("... output from testbranch");
+System.out.println("... output from testbranch");
+System.out.println("... output from testbranch");
     }
 }
